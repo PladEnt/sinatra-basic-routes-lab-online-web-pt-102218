@@ -10,7 +10,7 @@ class App < Sinatra::Base
   end
   
   get '/favorite-song' do
-    ""
+    "My favorite song is 'I Will Still Love You' by Isaac Shepard"
   end
   
 end
